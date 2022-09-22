@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 161293
 Countdown: 0
-SampleSet: Drum
+SampleSet: None
 StackLeniency: 0.7
 Mode: 3
 LetterboxInBreaks: 0
@@ -28,7 +28,7 @@ Creator:Drum-Hitnormal
 Version:CS' Dance of Suigetsu
 Source:
 Tags:dudehacker Critical_Star faputa paran 早見沙織 Hayami Saori 神里綾華 kamisato ayaka 陳致逸 白鹭归庭 白鷺が憩う庭 The Homeward Heron ost mihoyo hoyoverse Yu-Peng Chen genshin impact 原神 chinese video game gacha Akasha Kuo Kyoka folk
-BeatmapID:3591414
+BeatmapID:3808180
 BeatmapSetID:1745942
 
 [Difficulty]
@@ -516,6 +516,7 @@ SliderTickRate:1
 64,192,38635,1,0,0:0:0:0:
 192,192,38825,1,0,0:0:0:0:
 448,192,39014,128,0,39574:0:0:0:0:
+320,192,39014,1,0,0:0:0:0:
 64,192,39755,1,0,0:0:0:0:
 192,192,39845,1,0,0:0:0:0:
 448,192,39936,1,0,0:0:0:0:
