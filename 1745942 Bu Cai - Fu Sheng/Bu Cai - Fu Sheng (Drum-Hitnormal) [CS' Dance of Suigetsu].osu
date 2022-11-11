@@ -3,14 +3,14 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime:161293
+PreviewTime: 161293
 Countdown: 0
 SampleSet: Drum
 StackLeniency: 0.7
 Mode: 3
 LetterboxInBreaks: 0
-WidescreenStoryboard: 1
 SpecialStyle: 0
+WidescreenStoryboard: 1
 
 [Editor]
 Bookmarks: 1031,13182,40524,64828,101284,113436,149891,174247,201589,207665,231968,268424
@@ -2265,8 +2265,7 @@ SliderTickRate:1
 64,192,283319,128,0,283413:0:0:0:0:
 320,192,283698,128,0,283793:0:0:0:0:
 64,192,284078,128,0,284172:0:0:0:0:
-192,192,284457,128,0,284560:0:0:0:0:
-192,192,284458,1,0,0:0:0:0:
+192,192,284458,128,0,284560:0:0:0:0:
 320,192,284868,128,0,284960:0:0:0:0:
 448,192,285604,128,0,285698:0:0:0:0:
 192,192,285983,128,0,286078:0:0:0:0:
